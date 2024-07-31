@@ -1,0 +1,58 @@
+/* ESTILO GERAL */
+*{
+    font-family: "Nunito", sans-serif;
+    margin: 0px;
+}
+
+/* ESTILO CORPO*/
+.classe_logo{
+    background-color: #610588;
+    padding: 0px 80px 0px 80px;
+}
+
+.classe_lista{
+    background-color: #CAADE6;
+    padding: 0px 80px 0px 80px;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+nav ul li a {
+    color: #F2F2F2;
+    text-decoration:none;
+}
+
+/* ESTILO MAIN*/
+.classe_adaptelas{
+    background-color: #CAADE6;
+    color:#610588;
+    text-align: justify;
+    padding: 30px 80px 50px 80px;
+}
+
+section> h1{  
+    text-align: center; 
+    padding: 0px 0px 10px 0px;
+}
+
+.classe_sobre{
+    background-color: #610588;
+    color:#F2F2F2;
+    text-align: justify;
+    padding: 50px 160px 50px 80px;
+}
+
+section> h2{
+    text-align: center;
+    padding: 70px 0px 10px 0px; 
+}
+
+/* ESTILO DO FOOTER */
+.rodape{
+    background-color: #BBAACC;
+    color: #F2F2F2; 
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
